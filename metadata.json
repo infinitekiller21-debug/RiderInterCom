@@ -1,0 +1,12 @@
+{
+  "name": "RiderCast Intercom",
+  "description": "Rugged LAN-party style motorbike intercom for open-mic communication over local WiFi. Supports automatic reconnection and multi-user full-duplex audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "real-time-audio",
+    "web-sockets",
+    "webrtc"
+  ]
+}

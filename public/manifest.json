@@ -1,0 +1,17 @@
+{
+  "name": "RiderCast Intercom",
+  "short_name": "RiderCast",
+  "description": "Rugged motorbike intercom for group rides.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#151619",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/771/771241.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
